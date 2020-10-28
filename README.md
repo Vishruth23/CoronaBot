@@ -16,4 +16,4 @@ UI was imported and stored in Complete project\PythonProject2\template
 The bot has been coded in order to provide assistance in the current pandemic. The bot can also address questions which are part of day-to-day conversations. If the bot does not understand an input given by the user, it gives a default response. 
 
 Developed by Adwait Srivastava, Siddhartha Bhattacharjee, Vishruth Vijay
-(last edit made by adwait)
+
